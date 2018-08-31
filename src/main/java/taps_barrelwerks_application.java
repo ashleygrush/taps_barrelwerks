@@ -3,7 +3,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 
-class taps_barrelwerks_application {
+public class taps_barrelwerks_application {
 
     public static void main(String[] args) {
 
